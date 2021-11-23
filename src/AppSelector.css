@@ -1,0 +1,12 @@
+.app-selector {
+    background-color: #0593ff;
+    color: white;
+    width: 99%;
+    height: 18%;
+    margin-top: 3%;
+    margin-left: 5px;
+    border-radius: 25px;
+    text-align: left;
+    font-size: 2.5em;
+    border: 5px solid white;
+}
