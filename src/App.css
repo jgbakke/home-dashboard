@@ -6,6 +6,16 @@
     border-right: 8px solid white;
 }
 
+#app-body {
+    display: block;
+    position: absolute;
+    margin-left: 31%;
+    width: 69%;
+    height: 100%;
+    color: white;
+}
+
 body {
-    background-color: #1b4972;
+    background-color: #6cc;
+    overflow: hidden;
 }
